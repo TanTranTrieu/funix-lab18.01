@@ -1,0 +1,41 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(../img/street-aesthetic.jpg);
+  width:100%;
+  height: 100%;
+}
+
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(../img/blue-pc-wallpapers2.jpg);
+  width:100%;
+  height: 100%;
+}
+
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image:  url(../img/cute-dragon.jpeg);
+  width:100%;
+  height: 100%;
+}
+
+
+
+header {
+  height: 3.5rem;
+}
+
+#myCarousel {
+  height: calc(100vh - 3.5rem);
+}
+
+.carousel-inner {
+  height: 100%;
+}
+
+
